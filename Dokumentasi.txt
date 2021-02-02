@@ -1,2 +1,4 @@
 1. Composer install terlebih dahulu
 2. database bernama test.sql
+
+Laravel versi 8 dan php ver harus 7.3++
