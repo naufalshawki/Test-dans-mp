@@ -1,0 +1,2 @@
+1. Composer install terlebih dahulu
+2. database bernama test.sql
